@@ -1,0 +1,4 @@
+#Mon May 07 22:56:03 ICT 2018
+base.0=D\:\\15670051\\ItWeather\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
